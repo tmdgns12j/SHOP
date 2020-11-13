@@ -95,7 +95,7 @@ export default function ButtonAppBar() {
           Learn More
         </Button>
         <div>
-          <h3>커밋확인ㅇ</h3>
+          <h3>커밋확인중</h3>
         </div>
       </CardActions>
     </Card>
