@@ -94,6 +94,9 @@ export default function ButtonAppBar() {
         <Button size="small" color="primary">
           Learn More
         </Button>
+        <div>
+          <h3>커밋확인</h3>
+        </div>
       </CardActions>
     </Card>
 
