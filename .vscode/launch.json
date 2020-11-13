@@ -1,0 +1,26 @@
+public class Gisafirst{
+
+    public static void main(String []args){
+    
+    int i=0;
+    
+    int sum=0;
+    
+    while (i<10){
+    
+    i++;
+    
+    if(i%2==1)
+    
+    continue;
+    
+    sum += i;
+    
+    }
+    
+    System.out.print(sum);
+    
+    }
+    
+    }
+    [출처] 2020년 3회 정보처리기사 실기 시험 - 합격률, 적중률(90%) 분석|작성자 기사퍼스트 권우석
